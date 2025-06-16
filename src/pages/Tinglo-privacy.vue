@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const APPNAME = 'Tinglo'
-const EMAILADDRESS = 'zhengxiaohan7817@163.com'
+const EMAILADDRESS = 'lizeming@badsnowballhk.shop'
 </script>
 
 <template>

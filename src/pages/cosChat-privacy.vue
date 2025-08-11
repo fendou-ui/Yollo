@@ -13,8 +13,9 @@ const EMAILADDRESS = 'qingyanglin@jxluanyou.shop'
         {{ APPNAME }} Privacy Policy
       </div>
       <div class="T_content">
-        Please take time to read our Terms and Conditions and this Privacy Policy. By proceeding further, you have read and expressly consent to the collection, use, retention, processing, transfer and disclosure of Personal Data under the terms of this Privacy Policy.
-        {{ APPNAME }} Inc.(hereinafter together referred to as “Company”, “we”, “our” or “us”).
+       We know you care about how your personal information is used and shared, and we take your privacy seriously. We have therefore created this Privacy Policy in order to clearly communicate our commitment to your privacy. Please read the following to learn more about our Privacy Policy. By using or accessing the Site and the services provided by us in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the manner specified in this Privacy Policy.
+      <br><br>
+      Remember that your use of the Site is at all times subject to the Terms of Use which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms. The general provisions as outlined in the Terms shall be applicable to this Privacy Policy as well.
       </div>
 
       <!--  -->

@@ -26,120 +26,176 @@ const EMAILADDRESS = 'qingyanglin@jxluanyou.shop'
 
       <!-- 1 -->
       <div class="T_title">
-        1.What This Privacy Policy Covers
+        HOW WE COLLECT PERSONAL AND OTHER INFORMATION
       </div>
       <div class="T_content">
-        This Privacy Policy covers our treatment of information we collect when you use or visit the Services. This Privacy Policy also covers our treatment of any information about you that our partners share with us or that we share with our partners.
+        When you visit the Site, you can browse without submitting any personal information about yourself. We will, however, receive and store some non-personally identifiable information about your visit, as described below. In order to participate in certain functionalities, you may be asked to provide personally identifiable information. Personally identifiable information is information that can identify you, including, for example your name or email address. It will always be your choice, or the choice of anyone acting for you, to provide personally identifiable information.
         <br><br>
-        This Privacy Policy does not apply to the practices of third parties that we do not own, control, or manage, including, but not limited to, any third-party websites, services, applications, or businesses (“Third-Party Services”). While we try to work only with those Third-Party Services that also respect your privacy, we are not responsible for the content or privacy policies of those Third-Party Services. We encourage you to carefully review the privacy policies of all Third-Party Services that you visit.
+        We are extremely transparent about the information we collect from our Users and we allow all our Users to choose what information they wish to provide us. When you access or use the Site and the services, we collect various types of information about you through different means as described below.
         <br><br>
-        This Privacy Policy does not apply to content that our users post on their profiles, and we are not responsible for the information collection and use practices of individual users. On {{ APPNAME }}, there is no built-in way to allow users to automatically collect data, and they must request it if they want any data from you.
+        Information provided to the Company:  When you register with us or create an account on the Site to access or use our services (“Account”), we collect information that you provide voluntarily during your registration or creation and use of your Account. This information may include the following:
+      <br><br>
+      Name (first, middle and last names);
+      <br>
+      Profile Name;
+      <br>
+      Username;
+      <br>
+      Email;
+      <br>
+      Gender;
+      <br>
+      Mobile Number;
+      <br>
+      Password.
+      <br>
+      Information provided or collected from access or use of the Site: When you access or use our Site, we collect information about how you have used our Site and our services. When you access the Site, certain information is stored in our servers automatically. The information captured automatically includes, but is not limited to, the following: data about the pages you access within the Site, user’s choices and behavior, your internet protocol (“IP”) address, device identity or unique identifier, device type, geo-location information (on obtaining consent), device and connection information, mobile network information, statistics on page views, traffic to and from the sites, referral URL, ad data, and standard web log data and other information. We also collect anonymous information through our use of cookies and web beacons. We may collect and store any information you provide us when you use our services, including when you: (i) add information on a web form; (ii) add, edit or update your Account information; (iii) contact us for support or other offerings; (iv) participate in community discussions, chats, etc.; (v) send any messages to us or correspond with us regarding the Site or our services; (vi) respond to a survey conducted by us; (vii) register for a promotion provided by us; (viii) request certain features (e.g., newsletters, updates, etc.); and/or (ix) submit feedback to us. We also collect the content that you create, upload, or post, on the Site.
+      <br><br>
+      Cookies and Related Tracking Technologies: The Site uses persistent and session cookies and other similar technologies to offer you a personalized experience and to remember your browsing preferences, including your log in details and choice of language. Cookies are stored primarily to ensure that in the event you return to the Site, it shall personalize your browsing, including, enabling you to be logged on the Site automatically. This information may, where permitted by applicable law, also be combined with other information we hold about you. The cookies are uniquely assigned to you and can only be accessed by your web page server in our domain. You can disable our cookies or all cookies through your browser settings. Upon the beginning of each of your visits to the Site, the Site also provides the choice to turn off all cookies which are not strictly necessary for the provision of our services. Please be advised that disabling cookies through either method may impact many of the Site’s features. In addition to cookies, we and/or our third-party advertising partners may use technologies that help us better manage and analyse content.
+      <br><br>
+      Buttons, Tools & Content from Other Companies: The Site may include buttons, tools, or content that link to other companies’ services, such as Facebook, Twitter, Instagram, and LinkedIn. We may collect information about your use of these features. In addition, when you see or interact with these buttons, tools, or content, or view a web page on the Site, some information from your browser may automatically be sent to the other company, in accordance with the terms and conditions of such other company.
+      <br><br>
+      Contacting the Company: We may also collect information about you from other sources, such as through your contact with us, including our customer support and/or social media team, and your interactions with other users. Additionally, for quality and training purposes or for our own protection, we may monitor or record telephone conversations with you or anyone acting on your behalf. By communicating with us, you acknowledge that your communication may be overheard, monitored, or recorded without further notice or warning.
       </div>
 
       <!-- 2 -->
       <div class="T_title">
-        2.What information we collect and how we use it
+        HOW WE USE PERSONAL AND OTHER INFORMATION
       </div>
       <div class="T_content">
-        (i) Account Information
-        <br>
-        When you create an account on the Services ("Account"), we ask you to provide information such as your username, password, age, email address, and phone number ("Account Information") in order to provide you with the Services. We may also use the Account Information alone or in combination with other information to enhance and improve the Services, such as through personalization. We use your age to verify that you can legally use the Services and to tailor content to your age. We use your email address to verify your account and to communicate with you. We allow users to find friends through their address book. However, you can opt out of phone lookup through your account settings.
+        Our primary purpose in collecting personal information is to provide you with a secure, smooth, efficient, and customized experience. We may use your information:
         <br><br>
-        (ii) Communicate with us via email
+        to verify your identity;
         <br>
-        As part of the Services, you may occasionally receive emails and other communications from us. Administrative communications related to your account (such as for account recovery or password reset) are considered part of the Services and your account, and you may not be able to opt out of receiving these communications. We may also send you other types of emails that you can opt out of from your Account Settings page.
-        <br><br>
-        (iii) Information about your accounts on third-party services
+        to enable you to access the Site and use our services;
         <br>
-        You may link your account to certain third-party services. To do so, you may choose to provide us with your username or other user ID for the third-party service, and you may then be required to log in to that service. Once you complete this login process, we will receive a token that allows us to access your account on the Service so that we can post your content to the Service when you request it. We do not receive or store passwords for your accounts on third-party services.
-        <br><br>
-        (iv) User Content
+        to provide you with necessary details pertaining to your Account and your license to use the Site and our services, including, sending notifications for termination of contract;
         <br>
-        By default, all information shared through the Service is public, with the exception of messages you receive or send (“Notifications”). In some cases, especially when the recipient decides to do so, Notifications may also be public. That is why you should always treat them as public, as well. Unless otherwise stated, you should assume that anything you post is public. Content that is posted and shared publicly is accessible to everyone, including search engines, which may affect your control over that content. In addition, information shared publicly may be copied and shared throughout the Internet, including through actions or features native to the Service. You should not be afraid to post content, but you should always remember that once posted, content is difficult to remove from the Internet.
-        <br><br>
-        (v) Native Actions
+        to send transactional communications, including responses to your comments, questions and requests;
         <br>
-        The Service allows you to perform actions that are essential to our products, such as liking a post, answering or commenting on {{ APPNAME }}, and following other users. The above actions are public by default, but you can choose to remain anonymous in some cases, such as if you follow someone. We use information about the operation of this machine to improve the Services, develop new Services, and, in particular, to personalize your {{ APPNAME }} experience. Personalization using this information may include showing you new posts related to content you like, providing you with better search results, and showing you ads that are more relevant to your interests.
-        <br><br>
-        (vi) Information About User Content
+        to contact you, through voice call, text messages, or emails, as authorized by you, under the Terms;
         <br>
-        In some cases, we may collect information about the content you provide to the Services. For example, when content is included in your pictures, we may collect information describing your camera and camera settings. This information enables us to improve the Services and provide additional features.
-        <br><br>
-        (vii) Location Information
+        for business management, accounting and auditing purposes;
         <br>
-        In some cases, we collect and store information about your location, such as converting your IP address to a coarse geographic location. We may also ask you to provide information about your location, such as allowing posts to be geotagged using geolocation information from your mobile device. We may use location information to improve and personalize the Services for you, such as showing you relevant content and/or relevant ads.
-        <br><br>
-        (viii) Information About Your Mobile Device
+        to do such activities for which you have explicitly given us consent;
         <br>
-        We may collect and store information about your mobile device. In some cases, we may receive, generate, or assign a unique identifier to your mobile device for the purposes described above under “Information Related to Use of the Services.”
+        to comply with applicable laws, as updated from time to time;
+        <br>
+        to inform you about our new products and/or services;
+        <br>
+        to respond to your queries or service requests and for resolution of the same;
+        <br>
+        to send you technical notices, updates, security alerts, and support and administrative messages;
+        <br>
+        to advertise, promote, or market our products and services and to undertake all other types of business development activities;
+        <br>
+        to comply with applicable security standards;
+        <br>
+        to detect, prevent or remedy any breach of the Terms;
+        <br>
+        to perform research, business and/or operational analysis;
+        <br>
+        to protect your (or someone else’s) interest;
+        <br>
+        to deal with legal disputes, if any;
+        <br>
+        to provide, maintain or improve our products and services;
+        <br>
+        to ensure network and information security, including preventing unauthorized access to our computer and electronic communications systems and preventing malicious software distribution;
+        <br>
+        to conduct data analytics studies to review and better understand customer satisfaction and needs;
+        <br>
+        to generate internal reports about our user base and service usage patterns, analyze the accuracy, effectiveness and popularity of the Site and our services;
+        <br>
+        to track user activity and behavior pattern on the Site; and/or
+        <br>
+        to protect the public interest or for official purposes, if formally requested by any investigative or other governmental authority.
+        <br>
+        We may also use your information to generate charts, presentations, reports, logs, or other documents about, inter alia, our user base, service usage patterns, analysis of the accuracy, effectiveness, and popularity of the Site and our services for marketing, or other external purposes.
         <br><br>
+        However, in case of such external use, we shall ensure to anonymise the personal information provided by you. You hereby give your express consent to us for using your personal information for this purpose.
       </div>
 
       <!-- 3 -->
       <div class="T_title">
-        3.Use of Personal Information
+        HOW WE SHARE PERSONAL AND OTHER INFORMATION
       </div>
       <div class="T_content">
-        Anonymization is a data processing technique that removes or modifies personal information so that it cannot be associated with a specific individual. Except for this section, the other provisions of this Privacy Policy do not apply to anonymous or aggregated personal data (i.e. user information that we combine together so that it can no longer identify or reference an individual user).
+        User Content: If you submit content to any interactive portion of the Site, including, but not limited to, your Account profile page or user discussion sections of the Site, your content will be made publicly available to anyone who visits that area of the Site. Other users or the general public may access, or use content that you make publicly available through the Site. Even if you remove or delete your content, copies may remain in cached or archived areas of the Site.
         <br><br>
-        We may use anonymous or aggregated data for any business purpose, including to better understand users' needs and behaviors, to improve our products and services, to conduct business intelligence and marketing, and to detect security threats. We may perform our own analysis of anonymous data or enable analysis provided by third parties.
+        Processing of Services: We share information, including personal information, with our officers, employees, consultants, agents, representatives, sub-contractors, service providers and business partners to enable them to undertake, perform and deliver our services to you.
         <br><br>
+        Third Party Service Providers We share information, including personal information, with our third-party service providers that we use to: (i) to host and maintain the Site, (ii) for application development, back-up, storage, processing, analytics, marketing and front or back-end development and support; and (iii) for audits, web analysis and other services required to enable seamless provision of the Site and our services. These third-party service providers may have access to or process your personal information for the purpose of providing these services for us. We do not permit our third-party service providers to use the personal information that we share with them for their marketing purposes or for any other purpose than in connection with the services they provide to us. We forbid the third-party service providers from using your personal data for their marketing purposes or for any purposes other than for the provision of services to us. Please note that third party service providers have their own privacy policies, and we are not responsible for their actions, including their information protection practices.
+        <br><br>
+        Compliance with laws & protection of our rights We may also share your personal information and data with third parties where we believe in good faith that such disclosure is necessary to comply with any applicable law or to comply with legal processes and to respond to requests from public and government authorities, including public and government authorities outside your country of residence, to prevent imminent physical harm or financial loss, to enforce our Terms, including to meet national security or law enforcement requirements. We may disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms, or as otherwise required by law. We may also share your information in situations involving potential threats to the physical safety of any person, violations of this Privacy Policy or to respond to the claims of violation of the rights of third parties and/or to protect our rights, property and safety of our employees, users, vendors, partners or the public and obtaining your consent is difficult. We, at our sole discretion, shall have the right to disclose your personal information to third parties, in the event we believe it to be necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or any other unlawful activity.
+        <br><br>
+        Insolvency and business transitions: If we should ever file for bankruptcy or engage in a business transition such as a merger with another entity, or if we purchase, sell, or reorganize all or part of our business or assets, we may disclose your information, including personal information, to prospective or actual purchasers in connection with one of these transactions.
+        <br><br>
+        Consent: We may share your information in any other circumstances where we have your express consent.
+        <br><br>
+        Affiliates: We may share your information among our affiliates and group entities so that we can better provide better services that are relevant to you as well as generally to provide the services as applicable.
+        <br><br>
+        Disclaimer: We cannot ensure that all of your information will never be disclosed in ways not otherwise described in this Privacy Policy. For example, a third party may unlawfully intercept or access transmissions or private communications, or other users of the Site may abuse or misuse your personal information. No transmission of data over the internet can be 100% secure.
       </div>
 
       <!-- 4 -->
       <div class="T_title">
-        4.Your Account and Content
+        HOW WE SHARE PERSONAL AND OTHER INFORMATION
       </div>
       <div class="T_content">
-        If your content is publicly posted, it will remain public as long as you or we do not delete it from the Service. You can choose to delete your individual post or comment at any time, and we will remove it from the Service. However, it is important to note that your deleted posts may be stored in our systems for a limited period of time for legal, business, security, or system backup reasons, and they may continue to be accessible in cached and archived pages of the Service or elsewhere if others choose to copy or save them. Search engines and other websites may also index and cache content on our Service. You may have to contact these third-party websites or search engines directly to delete your cached information, subject to their policies and procedures.
+        Keeping your information secure is of great concern to us. We exercise care in facilitating the transmission of information between your device or computer and our servers (or the third-party servers that operate and store information for the Site). Your personal and all other information is maintained by us in electronic form on our equipment, and on the equipment of our employees, consultants, sub-contractors, vendors, service providers, agents, and representatives. Such information may also be converted to physical form from time to time. Personally identifiable information collected by the Site is stored in operating environments with restricted access and are not available to the public. We have put in place appropriate security measures to prevent your personal information from being accidentally lost, used, or accessed in an unauthorised manner. In addition, we have limited the access to your personal information to those who have a need to know. While we have mechanisms in place to safeguard your personal information after we receive it, no transmission of data over the internet can be guaranteed to be 100% secure.
         <br><br>
-        If you wish to delete your account, you can do so by clicking the "Forget Me" button in the in-app settings. You can also delete your account using the "Email Support" link in the in-app settings (or by sending an email to {{ EMAILADDRESS }}), but please note that we may retain certain information as required by law, for legitimate business purposes, or for the safety of {{ APPNAME }} (including its users) and others. We may also retain cached or archived copies of information about you for a certain period of time.
+        It is necessary for the users to keep their personal information and their password confidential. The users must not share their usernames and passwords with anyone to prevent unauthorised use of their personal information. You shall, at all times, be responsible for the protection of and the disclosure of your username and password. We shall, in no way, be liable for disclosure of your username and/or password, or your personal information, in the event of any unauthorised access of your Account. In the event of such unauthorised usage, you shall notify us immediately
         <br><br>
       </div>
 
       <!-- 5 -->
       <div class="T_title">
-        5.Information related to the use of the service
+        RETENTION OF INFORMATION
       </div>
       <div class="T_content">
-        We collect information about how people (including people who have accounts) use the Services. Each time you interact with (that is, make a request to) the Services, we may collect this information in our log files. We use internal tools and third-party applications and services to collect and analyze this information. Some of this information may also be associated with the Internet Protocol address ("IP address") used to access the Services; some may be associated with your account; and some may be collected and used only in aggregate form (as statistical metrics that do not identify you or your account). We also collect your IP address when you post, particularly when you submit a Tell. We may use information about how you and others interact with the Services for a variety of purposes generally related to enhancing, improving, protecting, and developing new Services, including, but not limited to: delivering personalized content to users; delivering targeted advertising to users; improving our search results; identifying popular content; fighting spam, malware, and identity theft, and generally keeping our users and community safe; and for the legal and security reasons set forth in "Information Disclosures to Protect Us and Others."
+        The term for which we shall be retaining your personal information depends solely on the nature of the information. We shall retain your personal information only for such period of time as is necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+        <br><br>
+        We may, at any time, delete your information, including but not limited to, your personal information, without any prior notice to you. Upon the expiry of your license to access the Site and use our services or deactivation and/or termination of your Account, we shall have the right to, immediately and permanently, delete all stored messages, emails, contents, and all other records of your Account without any notice.
+        <br><br>
+        Except to the extent provided herein, we will destroy your personal information upon the fulfilment of its purpose. We may, however, retain your personal information for: (i) accounting purposes for such time period as is prescribed under applicable law; and (ii) for legal purposes till the completion of statutory limitation for bringing any suit, if any. We will also retain your information for the purposes and for such time periods as may be prescribed under applicable laws.
+        <br><br>
+        Under certain circumstances, we alter the personal information collected from users to render it anonymous so that, it could no longer be personally identifiable. In the event of such anonymization of data, we shall have the right to retain such data for as long as we require and use such data without intimating you of such use and for any lawful purposes of whatsoever nature, whether mentioned in this Privacy Policy or not.
+        <br><br>
+        Retention of your personal information, including your sensitive personal information by a third party, or another user shall be governed by their privacy policies and we are neither responsible nor could be held liable for any breach or non-compliance from such party’s part.
+        <br><br>
+        Please note that certain of your public content and information can exist elsewhere even after you removed or deleted it from the Site, including with third parties which may retain content and information.
+        <br><br>
+       If you have violated our Terms and Site usage polices as a consequence of which we have termination or suspended your account, we may indefinitely keep certain identifying data that you used to create your Account, including email address and phone number to prevent you from offending again, including by creating new accounts.
         <br><br>
       </div>
 
       <!-- 6 -->
       <div class="T_title">
-        6.Who your information is shared with
+        ACCESSING, UPDATING, OR DELETING YOUR PERSONAL INFORMATION
       </div>
       <div class="T_content">
-        We never share information we obtain from you unless:
-        <br>
-        (i) We have your permission to share that information, such as to provide a service you have requested (including when you connect to a third-party service)
-        <br>
-        (ii) We have notified you in advance that the information will be shared and with whom (such as in this Privacy Policy)
-        <br>
-        (iii) The information is aggregated or otherwise does not identify you.
-        <br>
-        You confirm that you have obtained all appropriate consents and authorizations to upload and share personal information of third parties and to contact such third parties (and to be contacted by {{ APPNAME }} on your behalf) where relevant.
+        If personal information that you have submitted to us changes or if you would like to remove your personal information, please contact us at undefined. We will make good faith efforts to resolve requests to remove information or correct inaccurate information except where the request is unreasonable, requires disproportionate technical effort or expense, jeopardizes the privacy of others, or would be impractical.
         <br><br>
       </div>
 
       <!-- 7 -->
       <div class="T_title">
-        7.Personal Information of Minors
+        THIRD PARTY WEBSITES
       </div>
       <div class="T_content">
-        We do not intentionally collect personally identifiable information from minors as defined by the laws of any applicable jurisdiction. If we discover that we have inadvertently collected personally identifiable information from a minor, we will immediately delete that information. If you become aware of any minor using our Apps and Websites and Services, please notify us so that we can take action to block access to our Apps and Websites and Services.
+        The Site may contain links to third-party websites. Your use of these features may result in the collection, processing, use, storage or sharing of information about you, including your personal information, by these websites, depending on the feature. Please be aware that we are not responsible for the content or privacy practices of other websites or services that may be linked on our Site. We do not endorse or make any representations about third-party websites or services. The information you choose to provide to or that is collected by these third parties is not covered by our Privacy Policy. We shall, at no time, be liable for any unauthorised use of your personal information by these third-party websites. We strongly encourage you to read such third parties’ privacy policies.
         <br><br>
       </div>
 
       <!-- 8 -->
       <div class="T_title">
-        8.Changes to this Privacy Policy
+        CHILDREN'S AND MINOR'S PRIVACY
       </div>
       <div class="T_content">
-        The Company may update this Privacy Policy from time to time at its sole discretion to respond to changes in the law, technology and/or business developments. The revised Privacy Policy will be effective immediately upon posting by the Company and we will replace this page with the updated version. When we update our Privacy Policy, we will take appropriate action and notify you through a privacy statement consistent with material changes we may make.
+        Our primary audience are adults and young adults. We do not intend to and will not knowingly collect any personal information from children under the age of 10; children under the age of 10 are prohibited from using the Site without parent/guardian supervision. Minors who may access the Site may not be able to provide valid consent to our collection, use, disclosure, storage, or other handling of their personal information. Parents and guardians of children/minors are personally responsible for monitoring their child's/minor's access to, and use of, our Site and our services and for providing valid approvals for their child's/minor's access to the Site and to the services provided by us. If you are under the age of 18 (eighteen) years, it is mandatory that your parent or guardian has read and accepted this Privacy Policy on your behalf, and it is assumed that you have ensured that the use of the Site and the Services by you is under the guidance and control of your parents or guardian. If you are a child or young adult under the age of 18 (eighteen) years, you must ask your parent or legal guardian to approve your provision of personal information before you submit your personal details to us. If your parent or guardian has not read and agreed to this policy, you will not have permission to use the Site and the Services. If we learn that we have collected information from a child under the age of 13, we will remove that information immediately and delete it from our servers (subject to applicable law and this Privacy Policy).
         <br><br>
-        However, you acknowledge that it is your responsibility to check the Privacy Policy from time to time to be aware of any changes that may have occurred.
+        We strongly encourage parents and guardians to supervise the online activities of their minors to help provide a child-friendly online environment and prevent minors from disclosing their name, address, and other personally identifiable information online without parental permission. Although the Site and our services are not intended for use by minors, we respect the privacy of minors who may inadvertently use the internet.
         <br><br>
         <br><br>
       </div>

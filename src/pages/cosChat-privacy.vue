@@ -199,6 +199,35 @@ const EMAILADDRESS = 'qingyanglin@jxluanyou.shop'
         <br><br>
         <br><br>
       </div>
+
+      <!-- 9 -->
+      <div class="T_title">
+        DISCLAIMER
+      </div>
+      <div class="T_content">
+        We shall not be liable for disclosure of your passwords and you shall be solely responsible for protecting your username and passwords, at all times. You shall be solely liable for any unauthorised use of the Site through your Account. In the event of such unauthorised usage, you shall notify us immediately and reset your password accordingly.
+        <br><br>
+        While we give utmost importance to protecting user data and information, we cannot ensure that all your personal information (including sensitive information) will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information will always remain private. As a user of the Site, you understand and agree that you assume all responsibility and risk for your use of the Site, the internet generally, and the information or content you post or access and for your conduct on and off the Site.
+        <br><br>
+      </div>
+
+      <!-- 10 -->
+      <div class="T_title">
+        CHANGES TO PRIVACY POLICY
+      </div>
+      <div class="T_content">
+        We reserve the right to update this Privacy Policy at any time, and from time to time, with or without advance notice. In the event there are significant changes in the way we treat user’s personal information, or in the Privacy Policy itself, we will display a notice on the Site or send users an email, so that you may review the changed terms prior to continuing to use the Site. Please check this page periodically for changes. Use of information we collect is subject to the Privacy Policy in effect at the time such information is used. Please review the changes carefully. Your continued access to the Site or use of our services following the posting of changes to this Privacy Policy will mean you consent to and accept those changes. As always, if you object to any of the changes to our terms, and you no longer wish to use our services, you may stop browsing through the Site, deactivate your Account and/or contact us at undefined
+        <br><br>
+      </div>
+
+      <!-- 11 -->
+      <div class="T_title">
+        CONTACT INFORMATION AND PRIVACY QUESTIONS
+      </div>
+      <div class="T_content">
+        Should you have questions about this Privacy Policy or our information collection, use and disclosure practices or grievance with respect to our use of your information, you may contact our grievance officer identified below We will use reasonable efforts to respond promptly to any requests, questions, or concerns, which you may have regarding our use of your personal information.
+        <br><br>
+      </div>
     </div>
   </div>
 </template>

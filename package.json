@@ -12,11 +12,6 @@
     "up": "taze major -I",
     "postinstall": "npx simple-git-hooks"
   },
-   "pnpm": {
-    "overrides": {
-      "@netlify/blobs": "5.6.0"
-    }
-  },
   "dependencies": {
     "@vueuse/core": "catalog:frontend",
     "vue": "catalog:frontend",
